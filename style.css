@@ -1,0 +1,16 @@
+h1 { 
+    color: rgba(252, 252, 252, 0.822);
+
+}
+.header{
+    background-color: rgb(28, 31, 31);
+display:flex;
+justify-content:center;
+}
+.menu{
+    display:flex;
+    justify-content: flex-end;
+}
+.info{
+    color:rgba(40, 58, 160, 0.979);
+}
